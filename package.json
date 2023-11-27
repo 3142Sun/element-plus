@@ -6,6 +6,7 @@
     "play",
     "docs"
   ],
+  "version": "3.0.0",
   "scripts": {
     "cz": "czg",
     "test": "vitest",
